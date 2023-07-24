@@ -36,10 +36,7 @@ const NavBar = (props) => {
           </div>
         </div>
         <div>
-          <img
-            className=" h-12"
-            src={require("/home/abhi/Trial/REACT/e-commerce/src/shopping-cart.png")}
-          />
+          <img className=" h-12" src={require("../shopping-cart.png")} />
         </div>
       </div>
     </nav>
